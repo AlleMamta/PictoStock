@@ -1,2 +1,2 @@
-# PictoStock
+# PictorStock
 PictorStock repository
